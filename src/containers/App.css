@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers&display=swap');
+
+h1 {
+  font-family: 'Bangers', cursive;
+  font-weight: 200;
+  /* color: #000000; */
+  background: -webkit-linear-gradient(rgb(13, 161, 137), rgb(6, 233, 195));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.f-headline {
+  margin: 0;
+  margin-top: 0.2em;
+  
+}
+
+.slogan {
+  font-family: 'Bangers', cursive;
+  font-size: x-large;
+  letter-spacing: 2px;
+  margin: 0;
+  margin-bottom: 15px;
+  color: white;
+}
